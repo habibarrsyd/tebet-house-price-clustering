@@ -12,14 +12,14 @@
   </p>
 
 <p align="center">
-  Aplikasi web sederhana untuk mengatur password  Anda.
+  Visualisasi dan Metode Klastering data Harga Rumah yang dijual di Tebet, Jakarta Selatan 2020.
   <br></br>
-  <em>Reference by <a href="https://github.com/dani-garcia/vaultwarden">vaultwarden</a>.</em>
+  <em>Dataset by <a href="https://kaggle.com">Kaggle</a>.</em>
 </p>
 
     
-# Sekilas Tentang
-![alt text](images/homejga.png)
+# Latar Belakang
+![alt text](images/tebet.jpg)
 
 [PasswordManager](https://github.com/dani-garcia/vaultwarden)<br>
 Vaultwarden merupakan sebuah web app yang bertujuan untuk membantu anda dalam menyimpan password didalam cloud. Pada web app ini, kita dapat menyimpan password dengan menandai tipe password, nama dari passwordnya, username dan tentunya juga password yang ingin kita simpan di cloud. Kelebihan yang didapatkan dari web app ini adalah password yang disimpan di Vaultwarden memiliki keamanan extra dari server yang membuat password yang disimpan di web ini jauh lebih aman.
