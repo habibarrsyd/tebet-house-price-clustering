@@ -32,37 +32,25 @@ Daerah DKI Jakarta memiliki peranan yang sangat penting dalam menopang roda perg
 - Bahasa : R Language Programming
 - Text Editor : R Studio atau Visual Studio Code
 
-### Proses Instalasi :
-#### Docker
+### Proses :
+#### Baca Data
+- ![alt text](images/baca_data_rumah.jpg)
+#### Bagi harga dengan integer 1000000 untuk mempermudah pembacaan
+- ![alt text](images/bagi_harga.jpg)
+#### Ambil data yang dapat mewakili populasi yang akan dilakukan klastering
+- ![alt text](images/data_sampel.jpg)
+#### Gunakan elbow method untuk menentukan banyak klaster
+- ![alt text](images/elbow_method.jpg)
+#### Gunakan Kmeans 4 Klaster
+- ![alt text](images/kmeans_4klaster.jpg)
+#### Visualisasi Plot Klaster
+- ![alt text](images/visualisasi_plot_cluster.jpg)
+#### Tunjukkan klaster terbentuk
+- ![alt text](images/kaster_terbentuk.jpg)
+#### Data rumah yang sudah ter-klaster
+- ![alt text](images/data_klaster_rumah_fix.jpg)
 
-#### INSTALL CONTAINER VAULTWARDEN
-
-- 
-
-#### INSTALL CONTAINER CADDY
-
-- 
-  
-## Otomatisasi
-[`^ kembali ke atas ^`](#)
 
 
-
-#### Download `setup.sh` menggunakan `curl`
-```
-curl -LO https://github.com/darrelazmi/PassManager/blob/main/shell/setup.sh
-```
-
-### Ubah `<your-domain>` menjadi nama domain anda
-Misalkan domain anda adalah vault.yourdomain.com
-```
-sed -i 's/<your-domain>/vault.yourdomain.com/g' setup.sh
-```
-
-#### Jalankan dengan perintah `./setup.sh`
-```
-./setup.sh
-```
-*Shell script* `setup.sh` berisi kumpulan perintah untuk instalasi vaultwarden.
 
 
